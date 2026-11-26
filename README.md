@@ -1,4 +1,4 @@
-# 👻 [Nome do Jogo]
+# 👻 GHOSTMAIL
 
 > Protótipo de um jogo 2D em pixel art sobre um fantasma que leva aos vivos as cartas deixadas por quem já partiu.
 
